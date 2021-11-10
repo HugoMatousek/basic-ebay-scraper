@@ -12,7 +12,8 @@ To use this scraper, run:
 where `'search term'` is the desired product you want to search
 
 You can also add the following flags:
-```--num=X
+```
+--num=X
 ``` 
 where `X` is the number of results you would like to get (default is 10)
 ``` 
